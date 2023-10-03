@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2030",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-site-3"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-site-3"
+  },
+  "course_title": "new site 3",
+  "hide_download": false,
+  "course_description": "dfsdfs",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-site-3"
+  },
+  "learning_resource_types": [],
+  "site_uid": "007b4447-5174-4629-98d6-ddd35a5bfefe",
+  "site_short_id": "new-site-3"
+}
